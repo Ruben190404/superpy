@@ -1,0 +1,4 @@
+id,product_name,count,buy_date,buy_price,expiration_date
+1,orange,50,2025-06-05,0.8,2025-06-06
+2,orange,4,2025-06-05,0.8,2025-06-07
+3,orange,400,2025-06-05,0.8,2025-06-07
