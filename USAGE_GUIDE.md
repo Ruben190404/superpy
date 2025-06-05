@@ -121,4 +121,3 @@ For help with any subcommand:
 This will show required and optional arguments.
 
 --------------------------------------------------------------------------------
-Happy inventory tracking with SuperPy!
